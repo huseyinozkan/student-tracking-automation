@@ -1,0 +1,5 @@
+Aile Bilgi Kartlarý
+Kod                	Bilgi Adi         	Açýklama
+Aile-0001          	Anne Vefat Etmiþ  	
+Aile-0002          	Baba Vefat Etmiþ  	
+Aile-0003          	Anne Baba Boþanmýþ	

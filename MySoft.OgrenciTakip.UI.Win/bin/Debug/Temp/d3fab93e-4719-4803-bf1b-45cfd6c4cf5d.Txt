@@ -1,0 +1,4 @@
+Ýptal Nedeni Kartlarý
+Kod                  	Neden Adý       	Açýklama
+Ýptal-0001           	Saðlýk Nedenleri	
+Ýptal-0002           	Tayin           	

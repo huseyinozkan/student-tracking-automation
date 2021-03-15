@@ -1,0 +1,824 @@
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csprojAssemblyReference.cache
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.GenerateResource.cache
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe.licenses
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe.config
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CopyComplete
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.AnaForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll.config
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.TabloDokumParametreleri.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporOnizleme.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabanciDilEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabancıDilListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberListForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupEditForm.resources
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe.config
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll.config
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csprojAssemblyReference.cache
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabanciDilEditForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabancıDilListForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.AnaForm.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporOnizleme.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.TabloDokumParametreleri.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.GenerateResource.cache
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe.licenses
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CopyComplete
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csprojAssemblyReference.cache
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AvukatForms.AvukatEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AvukatForms.AvukatListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaForms.BankaEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaForms.BankaListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaHesapForms.BankaHesapEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaHesapForms.BankaHesapListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaSubeForms.BankaSubeEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaSubeForms.BankaSubeListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.CariForms.CariEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.CariForms.CariListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.DenemeForms.XtraForm1.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.EvrakForms.EvrakEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.EvrakForms.EvrakListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.GorevForms.GorevEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.GorevForms.GorevListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetForms.HizmetEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetForms.HizmetListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetTuruForms.HizmetTuruEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetTuruForms.HizmetTuruListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IletisimForms.IletisimEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IletisimForms.IletisimListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimForms.IndirimEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimForms.IndirimListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimTuruForms.IndirimTuruEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimTuruForms.IndirimTuruListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IsYeriForms.IsYeriEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IsYeriForms.IsYeriListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KasaForms.KasaEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KasaForms.KasaListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.MakbuzEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.MakbuzListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MeslekForms.MeslekEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MeslekForms.MeslekListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OdemeTuruForms.OdemeTuruEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OdemeTuruForms.OdemeTuruListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OgrenciForms.OgrenciEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OgrenciForms.OgrenciListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OzelKodForms.OzelKodEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OzelKodForms.OzelKodListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.PromosyonForms.PromosyonEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.PromosyonForms.PromosyonListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.ServisForms.ServisEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.ServisForms.ServisListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifForms.SinifEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifForms.SinifListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TahakkukEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TahakkukListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TopluOdemePlaniEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabanciDilEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabancıDilListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YakinlikForms.YakinlikEditForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YakinlikForms.YakinlikListForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.AnaForm.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporOnizleme.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.TabloDokumParametreleri.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.Base.BaseTablo.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.IndirimEditFormTable.IndiriminUygulanacagiHizmetlerTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.AileBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.BilgiNotlariTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.EposBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.EvrakBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.GeriOdemeBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.HizmetBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.IletisimBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.IndirimBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.KardesBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.OdemeBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.PromosyonBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.SinavBilgileriTable.resources
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.GenerateResource.cache
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe.licenses
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe.config
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\System.ValueTuple.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll.config
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\System.ValueTuple.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CopyComplete
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe.config
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\System.ValueTuple.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Images.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Bll.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Data.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.OgrenciTakip.Model.dll.config
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Data.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\System.ValueTuple.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\MySoft.Dal.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csprojAssemblyReference.cache
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AileBilgiForms.AileBilgiListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AvukatForms.AvukatEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.AvukatForms.AvukatListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaForms.BankaEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaForms.BankaListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaHesapForms.BankaHesapEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaHesapForms.BankaHesapListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaSubeForms.BankaSubeEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BankaSubeForms.BankaSubeListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.BaseForms.BaseListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.CariForms.CariEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.CariForms.CariListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.DenemeForms.XtraForm1.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.EvrakForms.EvrakEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.EvrakForms.EvrakListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.FiltreForms.FiltreListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.GorevForms.GorevEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.GorevForms.GorevListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetForms.HizmetEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetForms.HizmetListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetTuruForms.HizmetTuruEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.HizmetTuruForms.HizmetTuruListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlceForms.IlceListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IletisimForms.IletisimEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IletisimForms.IletisimListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IlForms.IlListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimForms.IndirimEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimForms.IndirimListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimTuruForms.IndirimTuruEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IndirimTuruForms.IndirimTuruListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IptalNedeniForms.IptalNedeniListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IsYeriForms.IsYeriEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.IsYeriForms.IsYeriListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KasaForms.KasaEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KasaForms.KasaListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.KontenjanForms.KontenjanListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.MakbuzEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.MakbuzListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MeslekForms.MeslekEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MeslekForms.MeslekListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OdemeTuruForms.OdemeTuruEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OdemeTuruForms.OdemeTuruListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OgrenciForms.OgrenciEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OgrenciForms.OgrenciListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OkulForms.OkulListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OzelKodForms.OzelKodEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.OzelKodForms.OzelKodListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.PromosyonForms.PromosyonEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.PromosyonForms.PromosyonListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RehberForms.RehberListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.ServisForms.ServisEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.ServisForms.ServisListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifForms.SinifEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifForms.SinifListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.SinifGrupForms.SinifGrupListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TahakkukEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TahakkukListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TahakkukForms.TopluOdemePlaniEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.TesvikForms.TesvikListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabanciDilEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YabanciDilForms.YabancıDilListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YakinlikForms.YakinlikEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.YakinlikForms.YakinlikListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.AnaForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporOnizleme.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.TabloDokumParametreleri.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Properties.Resources.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.InsUptNavigator.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.LongNavigator.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.Navigators.SmallNavigator.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.Base.BaseTablo.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.IndirimEditFormTable.IndiriminUygulanacagiHizmetlerTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.AileBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.BilgiNotlariTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.EposBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.EvrakBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.GeriOdemeBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.HizmetBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.IletisimBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.IndirimBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.KardesBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.OdemeBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.PromosyonBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.TahakkukEditFormTable.SinavBilgileriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.GenerateResource.cache
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe.licenses
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CoreCompileInputs.cache
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.csproj.CopyComplete
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.exe
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.BelgeSecimListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.UserControls.UserControl.GenelEditFormTable.MakbuzHareketleriTable.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.MakbuzForms.BelgeHareketleriListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporSecim.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.DataAccess.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.DataAccess.v18.1.UI.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.DataAccess.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RaporForms.RaporEditForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Forms.RaporForms.RaporListForm.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.GenelForm.RaporTasarim.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Reports.XtraReports.Tahakkuk.OgrenciKartiRaporu.resources
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.UI.Win\obj\Debug\MySoft.OgrenciTakip.UI.Win.Reports.XtraReports.Tahakkuk.BankaOdemePlanRaporu.resources

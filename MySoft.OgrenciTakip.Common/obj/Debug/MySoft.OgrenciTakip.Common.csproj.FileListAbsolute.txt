@@ -1,0 +1,172 @@
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csprojAssemblyReference.cache
+C:\Users\Hüseyin Özkan\Documents\Proje\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CopyComplete
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csprojAssemblyReference.cache
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CopyComplete
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\Yedek_01.12.2019\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csprojAssemblyReference.cache
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CopyComplete
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.dll
+C:\Users\huseyin\Desktop\MySoftOgrenciTakip\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\MySoft.OgrenciTakip.Common.pdb
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Data.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csprojAssemblyReference.cache
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CoreCompileInputs.cache
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.csproj.CopyComplete
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.dll
+C:\_PROJE\.Net\MySoftOgrenciTakip\MySoft.OgrenciTakip.Common\obj\Debug\MySoft.OgrenciTakip.Common.pdb
